@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="item_type" label="Item Type" language="en" table="x_cdltd_loaner_r_0_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <help/>
+            <hint/>
+            <label>Item Type</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_r_0_loaner_request</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-28 01:21:26</sys_created_on>
+            <sys_id>5a1355fab9c103107f442b00fca383c6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Item Type</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">a813c5beb98103107f442b00fca383d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">a813c5beb98103107f442b00fca383d2</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_loaner_r_0_loaner_request_item_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-28 01:21:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
