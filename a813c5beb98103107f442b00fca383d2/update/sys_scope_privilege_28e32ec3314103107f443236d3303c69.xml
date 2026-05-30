@@ -5,17 +5,17 @@
         <status>allowed</status>
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-05-28 02:01:55</sys_created_on>
-        <sys_id>535c11f2b90503107f442b00fca38302</sys_id>
+        <sys_created_on>2026-05-29 01:52:52</sys_created_on>
+        <sys_id>28e32ec3314103107f443236d3303c69</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>ScopedGlideElement</sys_name>
+        <sys_name>Glide API: properties</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">a813c5beb98103107f442b00fca383d2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">a813c5beb98103107f442b00fca383d2</sys_scope>
-        <sys_update_name>sys_scope_privilege_535c11f2b90503107f442b00fca38302</sys_update_name>
+        <sys_update_name>sys_scope_privilege_28e32ec3314103107f443236d3303c69</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-05-28 02:01:55</sys_updated_on>
-        <target_name>ScopedGlideElement</target_name>
+        <sys_updated_on>2026-05-29 01:52:52</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
         <target_scope display_value="Global">global</target_scope>
         <target_type>scriptable</target_type>
     </sys_scope_privilege>
