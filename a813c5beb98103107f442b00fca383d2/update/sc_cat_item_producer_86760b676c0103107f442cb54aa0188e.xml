@@ -13,7 +13,8 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p><span style="font-size: 12pt;">Please enter your reservation request. When your item has been requested, someone from the Service Desk will contact you to discuss special requirements, options or conflicts, and to schedule a pick-up time and location. </span></p>]]></description>
+        <description><![CDATA[<p><span style="font-size: 12pt;">Please enter your reservation request. When your item has been requested, someone from the Service Desk will contact you to discuss special requirements, options or conflicts, and to schedule a pick-up time and location.</span></p>
+<p><span style="font-size: 12pt;">This is my test!</span></p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -104,14 +105,14 @@ current.state = 13;]]></script>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-05-30 17:40:56</sys_created_on>
         <sys_id>86760b676c0103107f442cb54aa0188e</sys_id>
-        <sys_mod_count>35</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">a813c5beb98103107f442b00fca383d2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">a813c5beb98103107f442b00fca383d2</sys_scope>
         <sys_update_name>sc_cat_item_producer_86760b676c0103107f442cb54aa0188e</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2026-05-30 17:59:17</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-30 18:23:52</sys_updated_on>
         <table_name>x_cdltd_loaner_r_0_loaner_request</table_name>
         <taxonomy_topic/>
         <template/>
@@ -119,7 +120,7 @@ current.state = 13;]]></script>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>35</version>
+        <version>36</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
