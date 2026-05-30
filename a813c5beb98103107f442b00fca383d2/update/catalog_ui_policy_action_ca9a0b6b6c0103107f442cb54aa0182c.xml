@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Loaner Request">86760b676c0103107f442cb54aa0188e</catalog_item>
+        <catalog_variable>IO:47760f676c0103107f442cb54aa01817</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-30 17:59:17</sys_created_on>
+        <sys_id>ca9a0b6b6c0103107f442cb54aa0182c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">a813c5beb98103107f442b00fca383d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a813c5beb98103107f442b00fca383d2</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ca9a0b6b6c0103107f442cb54aa0182c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-30 17:59:17</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Only show 'Other' field if Depot value is 'Other'">921a436b6c0103107f442cb54aa018f6</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>other</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=ca9a0b6b6c0103107f442cb54aa0182c"/>
+</record_update>
